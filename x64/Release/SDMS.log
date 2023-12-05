@@ -1,0 +1,40 @@
+﻿  structDef.c
+E:\program\C_C++Project\program\SDMS\UI.h(56,10): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\UI.h(72,29): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\UI.h(84,18): warning C4090: “函数”: 不同的“const”限定符
+E:\program\C_C++Project\program\SDMS\UI.h(93,17): warning C4090: “函数”: 不同的“const”限定符
+E:\program\C_C++Project\program\SDMS\structDef.c(27,23): warning C4090: “函数”: 不同的“const”限定符
+E:\program\C_C++Project\program\SDMS\structDef.c(27,34): warning C4090: “函数”: 不同的“const”限定符
+E:\program\C_C++Project\program\SDMS\structDef.c(71,17): warning C4047: “函数”:“StuInfor *”与“StuInfor **”的间接级别不同
+E:\program\C_C++Project\program\SDMS\structDef.c(71,17): warning C4024: “scan_StuInfor”: 形参和实参 1 的类型不同
+E:\program\C_C++Project\program\SDMS\structDef.c(142,31): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(166,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(171,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(176,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(181,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(186,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(191,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(196,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(201,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(206,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(211,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(216,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(225,7): warning C4101: “p”: 未引用的局部变量
+E:\program\C_C++Project\program\SDMS\structDef.c(373,11): warning C4047: “初始化”:“Node **”与“char *”的间接级别不同
+E:\program\C_C++Project\program\SDMS\structDef.c(391,25): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\program\C_C++Project\program\SDMS\structDef.c(413,38): warning C4028: 形参 2 与声明不同
+E:\program\C_C++Project\program\SDMS\structDef.c(414,1): warning C4029: 声明的形参表不同于定义
+E:\program\C_C++Project\program\SDMS\structDef.c(416,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\C_C++Project\program\SDMS\structDef.c(428,10): warning C4133: “初始化”: 从“char *”到“Chain *”的类型不兼容
+E:\program\C_C++Project\program\SDMS\structDef.c(437,9): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\C_C++Project\program\SDMS\structDef.c(517,15): warning C4018: “>=”: 有符号/无符号不匹配
+E:\program\C_C++Project\program\SDMS\structDef.c(537,20): warning C4018: “<”: 有符号/无符号不匹配
+E:\program\C_C++Project\program\SDMS\structDef.c(682,44): warning C4028: 形参 2 与声明不同
+E:\program\C_C++Project\program\SDMS\structDef.c(725,22): warning C4477: “fscanf_s”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 5 拥有了类型“const char *”
+E:\program\C_C++Project\program\SDMS\structDef.c(725,22): message : 此参数由转换说明符使用
+  正在生成代码
+  0 of 59 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  SDMS.vcxproj -> E:\program\C_C++Project\program\SDMS\x64\Release\SDMS.exe
